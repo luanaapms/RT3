@@ -1,0 +1,23 @@
+{
+  "name": "rt3",
+  "version": "1.0.0",
+  "description": "Atividade 03 - TypeScript POO",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luanaapms/RT3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luanaapms/RT3/issues"
+  },
+  "homepage": "https://github.com/luanaapms/RT3#readme",
+  "dependencies": {
+    "modulort3": "github:luanaapms/moduloRT3"
+  }
+}
